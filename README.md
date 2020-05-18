@@ -1,6 +1,6 @@
 # vue-vux
 
-> AN APP Mall
+> AN APP Mall in future 
 
 ## Build Setup
 
